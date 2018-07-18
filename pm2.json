@@ -1,0 +1,6 @@
+{
+  "name": "pm2-nuxt",
+  "script": "npm",
+  "args" : "start",
+  "instances": "2"
+}
