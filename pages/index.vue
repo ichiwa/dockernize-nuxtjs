@@ -3,7 +3,7 @@
     <div>
       <app-logo/>
       <h1 class="title">
-        test-nuxt
+        test-nuxt version 10
       </h1>
       <h2 class="subtitle">
         Nuxt.js project
